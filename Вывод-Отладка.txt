@@ -1,0 +1,17 @@
+﻿"ConsoleApplication11.exe" (Win32). Загружено "C:\Users\Вася\source\repos\ConsoleApplication11\x64\Debug\ConsoleApplication11.exe". Символы загружены.
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Program Files\Avast Software\Avast\aswhook.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\apphelp.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x3ecc завершился с кодом 0 (0x0).
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"ConsoleApplication11.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0x2c18 завершился с кодом 0 (0x0).
+Поток 0x1754 завершился с кодом 0 (0x0).
+Программа "[9908] ConsoleApplication11.exe" завершилась с кодом 0 (0x0).
